@@ -1,4 +1,6 @@
-# FS-App-Template
+This is a website for small businesses in NYC to have a greater online business.
+
+<!-- # FS-App-Template
 
 ## Setup
 
@@ -74,4 +76,4 @@ Database Setup
       collaborator on the app.
 
 
-Now, you should be deployed!
+Now, you should be deployed! -->
